@@ -1,68 +1,82 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Tic Tac Toe
 
-## Available Scripts
+This project is about creating a very simple React application. Clasic Tic Tac Toe game.
 
-In the project directory, you can run:
+![screenshot](./Screenshot.png)
 
-### `npm start`
+## :package: Built With
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- HTML and JSX
+- CSS
+- Javascript (ES6)
+- React
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## :mag: Live Demo
 
-### `npm test`
+[Live Demo Link](https://mcervantes71.githup.io/Tic_Tac_Toe/index.html)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :computer: Getting Started
 
-### `npm build`
+To get a local copy up and running follow these simple steps.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### Download
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1) Clone the repository to your local machine
 
-### `npm eject`
+```sh
+  $ git clone https://github.com/mcervantes71/Tic_Tac_Toe.git
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+2) cd into the directory
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```sh
+  $ cd Tic_Tac_Toe
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Requirements
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[Node.js](https://nodejs.org) is required to install dependencies and run scripts via `npm`.
 
-## Learn More
+### Usage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Install the dependencies in the local node_modules folder
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```sh
+  $ npm install
+```
 
-### Code Splitting
+Build project and open web server running project
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+```sh
+  $ npm start
+```
 
-### Analyzing the Bundle Size
+Builds code bundle with production settings (minification, uglification, etc..)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+```sh
+  $ npm run build
+```
 
-### Making a Progressive Web App
+## :busts_in_silhouette: Authors
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+👤 **Martin Cervantes**
 
-### Advanced Configuration
+- Linkedin: [Martin Cervantes](https://www.linkedin.com/in/cervantesmartin/)
+- Twitter: [@M4rt1nC3rv4nt3s](https://twitter.com/M4rt1nC3rv4nt3s)
+- Github: [@mcervantes71](https://github.com/mcervantes71)
+- Gmail: [cervantes.martine](mailto:cervantes.martine@gmail.com)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+## 🤝 Contributing
 
-### Deployment
+    Contributions, issues and feature requests are welcome!
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+Feel free to check the [issues page](../../issues).
 
-### `npm build` fails to minify
+## :star2: Show your support
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+    Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
