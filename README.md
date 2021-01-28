@@ -13,7 +13,7 @@ This project is about creating a very simple React application. Clasic Tic Tac T
 
 ## :mag: Live Demo
 
-[Live Demo Link](https://mcervantes71.githup.io/Tic_Tac_Toe/index.html)
+[Live Demo Link](https://mcervantes71.github.io/Tic_Tac_Toe_React/index.html)
 
 ## :computer: Getting Started
 
